@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=076C00&random=false&width=435&lines=Welcome+to+my+page!+What+a+Meepy+day!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕!!! First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 **languages and tools:**  
 
 <!--
