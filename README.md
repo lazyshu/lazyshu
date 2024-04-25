@@ -1,4 +1,6 @@
-### Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕!!! First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+**languages and tools:**  
 
 <!--
 **lazyshu/lazyshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
