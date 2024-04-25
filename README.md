@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=076C00&random=false&width=435&lines=Welcome+to+my+page!+What+a+Meepy+day!)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Lazyshu's%20Meepy%20day.)
 
-**languages and tools:**  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=156E00&random=false&width=435&lines=Welcome+to+my+page!+what+a+Meepy+day;------------------------------+Meep!)](https://git.io/typing-svg)
 
+**languages and tools:** 
 <!--
 **lazyshu/lazyshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
