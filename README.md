@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Lazyshu's%20Meepy%20day.)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=156E00&random=false&width=435&lines=Welcome+to+my+page!+what+a+Meepy+day;------------------------------+Meep!)](https://git.io/typing-svg)
+<br><br><br><br><br>
 ## 🌱 I’m currently working on Pizza Koala Project with 👯
-
+<br><br>
 ## 🌱 My previous projects...
- 
+ <br><br>
 ## Tech Stack: 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <!-- Learning -->
