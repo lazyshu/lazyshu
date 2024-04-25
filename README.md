@@ -17,6 +17,11 @@
     <div>
       <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
+ <!-- Tools -->
+    <p><strong>😄 Tools</strong></p>
+    <div>
+     <img src="https://img.shields.io/badge/ERDCloud-6DB33F?style=for-the-badge&logo=ERDCloud"> 
+</div>
    <!-- Acquainted -->
     <p><strong>✨ Acquainted</strong></p>
       <div>
@@ -28,11 +33,7 @@
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
          <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
       </div>
-    <!-- Tools -->
-    <p><strong>😄 Tools</strong></p>
-    <div>
-     <img src="https://img.shields.io/badge/ERDCloud-6DB33F?style=for-the-badge&logo=ERDCloud"> 
-</div><br>
+    <br>
 </div>
 
 
