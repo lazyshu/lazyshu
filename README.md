@@ -35,10 +35,12 @@ Repository: https://github.com/PizzaKoala
       <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
  <!-- Tools -->
+ <br>
     <p><strong>😄 Tools</strong></p>
     <div>
      <img src="https://img.shields.io/badge/ERDCloud-6DB33F?style=for-the-badge&logo=ERDCloud"> 
 </div>
+ <br>
    <!-- Acquainted -->
     <p><strong>✨ Acquainted</strong></p>
       <div>
@@ -52,7 +54,8 @@ Repository: https://github.com/PizzaKoala
       </div>
     <br>
 </div>
-
+<br>
+ ✨How to reach me: https://www.linkedin.com/in/seuem-lee/ ✨
 
 <!--
 **lazyshu/lazyshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
