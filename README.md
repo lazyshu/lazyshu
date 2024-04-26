@@ -1,10 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Lazyshu's%20Meepy%20day.)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=156E00&random=false&width=435&lines=Welcome+to+my+page!+what+a+Meepy+day;------------------------------+Meep!)](https://git.io/typing-svg)
-<br><br><br><br><br>
+<br><br><br>
 ## 🌱 I’m currently working on Pizza Koala Project with 👯
+피자코알라는 내가 좋아하거나 매일 하는 일을 기록하고 공유하는 웹 서비스입니다. <br> <br>
+PizzaKoala is a web service where users can record and share something they are currently obsessed with, love, or enjoy doing. It's a platform where users can upload photos of their daily routines or their favorite things. <br> <br>
+Website: <br>
+Repository: https://github.com/PizzaKoala
+
+
+
+
 <br><br>
 ## 🌱 My previous projects...
+ <h2>Memopet</h2> 
+  메모펫은 사용자가 사용자의 반려동물과의 여정을 기록하는 웹 서비스 입니다. <br>
+ MemoPet is a service for people to share and record memories and experiences on their journey with their pets.<br>
+<br>
+ Website: <br>
+ Repository: https://github.com/memopet-project 
+ 
+ 
  <br><br>
 ## Tech Stack: 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
