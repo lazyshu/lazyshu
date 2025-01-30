@@ -39,42 +39,6 @@ Repository: https://github.com/PizzaKoala
  
  
  <br><br>
-## Tech Stack: 
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-   <!-- Learning -->
-    <p><strong>🌱 I’m currently learning</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-      <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    </div>
-    <div>
-     <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> 
-      <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-    </div>
- <!-- Tools -->
- <br>
-    <p><strong>😄 Tools</strong></p>
-    <div>
-     <img src="https://img.shields.io/badge/ERDCloud-6DB33F?style=for-the-badge&logo=ERDCloud"> 
-</div>
- <br>
-   <!-- Acquainted -->
-    <p><strong>✨ Acquainted</strong></p>
-      <div>
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-         </div>
-         <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
-      </div>
-    <br>
-</div>
-<br>
-
 
 ## **🛠 Tech Stack**
 
