@@ -23,7 +23,7 @@
 어제보다 오늘, 오늘보다 내일 더 나은 내가 되기 위한 작은 루틴을 만들고 싶다면, **PizzaKoala**와 함께하세요.  
 
 Website: <br>
-Repository: https://github.com/PizzaKoala
+Repository: https://github.com/PizzaKoala/PizzaKoala-backend
 
 
 
@@ -35,7 +35,7 @@ Repository: https://github.com/PizzaKoala
  MemoPet is a service for people to share and record memories and experiences on their journey with their pets.<br>
 <br>
  Website: <br>
- Repository: [https://github.com/memopet-project ](https://github.com/PizzaKoala/PizzaKoala-backend)
+ Repository: https://github.com/memopet-project 
  
  
  <br><br>
