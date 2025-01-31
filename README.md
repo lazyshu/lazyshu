@@ -34,8 +34,6 @@
 
  <br><br>
 
- ![Uploading image.png…]()
-
 
 # 🍕🐨 PizzaKoala
 
