@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=156E00&random=false&width=435&lines=Welcome+to+my+page!+what+a+Meepy+day;------------------------------+Meep!)](https://git.io/typing-svg)
 <br><br><br>
 
-## **<div align="center">📌 My Blog </div>** 
-https://what-is-coding.tistory.com/
-
 
 ## **<div align="center">🛠 Tech Stack</div>**
 
@@ -36,7 +33,11 @@ https://what-is-coding.tistory.com/
 </div>
 
  <br><br>
+## **<div align="center">📌 My Blog </div>** 
 
+<div align="center">  
+  👉 <a href="https://what-is-coding.tistory.com/">Click here to see my blog.</a> 👈  
+</div>
 
 # 🍕🐨 PizzaKoala
 
